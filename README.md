@@ -8,3 +8,5 @@ more text.
 ## Local Development
 
 1. open index.html
+
+3. Hello!
